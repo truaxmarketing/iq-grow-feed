@@ -1,0 +1,40 @@
+name: Check feed
+
+on:
+  push:
+    paths:
+      - feed.json
+      - feed.schema.json
+      - .github/workflows/check-feed.yml
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install jsonschema
+      - name: Check feed.json against feed.schema.json
+        run: |
+          python - <<'PY'
+          import json, sys
+          from jsonschema import Draft7Validator
+          try:
+              feed = json.load(open("feed.json", encoding="utf-8"))
+          except json.JSONDecodeError as e:
+              print(f"feed.json is not valid JSON: line {e.lineno}, column {e.colno}: {e.msg}")
+              sys.exit(1)
+          schema = json.load(open("feed.schema.json", encoding="utf-8"))
+          errors = sorted(Draft7Validator(schema).iter_errors(feed), key=lambda e: list(e.path))
+          for e in errors:
+              where = "/" + "/".join(str(p) for p in e.path)
+              print(f"{where}: {e.message}")
+          if errors:
+              print(f"\n{len(errors)} problem(s) found. Item numbers start at 0.")
+              sys.exit(1)
+          print(f"feed.json is valid: {len(feed['items'])} items, updated {feed['updated']}.")
+          PY

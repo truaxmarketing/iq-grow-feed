@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "grow.iqdesign.ai: Keep learning feed",
+  "description": "The format feed.json must follow. GitHub checks every change against this file (see .github/workflows/check-feed.yml).",
+  "type": "object",
+  "required": ["updated", "items"],
+  "properties": {
+    "updated": {
+      "description": "The date the list last changed, as YYYY-MM-DD. Shown on the page as 'Updated November 2, 2026'.",
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "items": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["title", "provider", "type", "date", "label", "paths", "url"],
+        "properties": {
+          "title": { "description": "The session, course or podcast name.", "type": "string", "minLength": 1 },
+          "provider": { "description": "Who runs it.", "type": "string", "minLength": 1 },
+          "type": { "description": "Sets the order: ceu first, then event, course, podcast.", "enum": ["ceu", "event", "course", "podcast"] },
+          "date": { "description": "YYYY-MM-DD for a dated session, or null.", "type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+          "label": { "description": "A short tag, e.g. '1.5 CEU', 'Free', 'Certificate'.", "type": "string" },
+          "paths": {
+            "description": "Which filter buttons show it.",
+            "type": "array",
+            "uniqueItems": true,
+            "items": { "enum": ["studio", "kb", "showroom", "early", "ceu"] }
+          },
+          "url": { "description": "The provider's own page, or null.", "type": ["string", "null"], "pattern": "^https?://" },
+          "status": { "description": "Optional. 'published' shows it; 'review' or 'draft' hides it.", "enum": ["published", "review", "draft"] },
+          "availability": { "description": "Optional, for undated items.", "enum": ["Recurring", "On demand"] }
+        }
+      }
+    }
+  }
+}

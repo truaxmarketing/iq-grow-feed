@@ -1,0 +1,199 @@
+{
+  "updated": "2026-10-27",
+  "items": [
+    {
+      "title": "Using AI Visualizations to Grow Your Design Practice",
+      "provider": "ASID Minnesota working group · IMS, Minneapolis",
+      "type": "ceu",
+      "date": "2027-01-13",
+      "label": "In person · CEU pending",
+      "paths": [
+        "studio",
+        "early",
+        "ceu"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "AI Powered Presentations in Minutes",
+      "provider": "High Point Market, Hooker Furnishings · Jenna Gaidusek",
+      "type": "ceu",
+      "date": null,
+      "label": "1.5 CEU",
+      "paths": [
+        "showroom",
+        "studio",
+        "ceu"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "AI for Interiors, Part 2: Working Smarter",
+      "provider": "ASID Texas, San Antonio Design Community",
+      "type": "ceu",
+      "date": null,
+      "label": "IDCEC",
+      "paths": [
+        "studio",
+        "ceu"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "Future-Ready Practice: The AI Tech Series",
+      "provider": "AIA",
+      "type": "ceu",
+      "date": null,
+      "label": "AIA LU",
+      "paths": [
+        "ceu",
+        "studio"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "Designer Discussion Den: Technology in Your Business",
+      "provider": "ASID Minnesota · IMS",
+      "type": "event",
+      "date": null,
+      "label": "Free · monthly, resuming in January",
+      "paths": [
+        "studio",
+        "early"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "AI for Interior Designers Certificate Program",
+      "provider": "Jenna Gaidusek",
+      "type": "course",
+      "date": null,
+      "label": "Certificate",
+      "paths": [
+        "early",
+        "studio"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "RE:DESIGN, 10-week AI Business Cohort",
+      "provider": "AI for Interiors, Jessica Nelson",
+      "type": "course",
+      "date": null,
+      "label": "Cohort",
+      "paths": [
+        "studio"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "Generative AI for Spatial Design",
+      "provider": "University of the Arts London",
+      "type": "course",
+      "date": null,
+      "label": "Short course",
+      "paths": [
+        "early"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "The Ethical Designer",
+      "provider": "Open-enrollment class",
+      "type": "course",
+      "date": null,
+      "label": "Ethics",
+      "paths": [
+        "early",
+        "studio"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "The Human Advantage: What AI Can’t Replace",
+      "provider": "Provider on file",
+      "type": "course",
+      "date": null,
+      "label": "Ethics",
+      "paths": [
+        "studio",
+        "early"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "The Future of the Design Business",
+      "provider": "Houzz Pro and Eichholtz, High Point",
+      "type": "event",
+      "date": null,
+      "label": "Series",
+      "paths": [
+        "studio",
+        "showroom"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "12 Ways AI Can Make More Money and Reduce Rework",
+      "provider": "KBIS 2026, Voices from the Industry",
+      "type": "event",
+      "date": null,
+      "label": "Business",
+      "paths": [
+        "kb",
+        "showroom"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "Retail Ready: Make AI Work for Your Business",
+      "provider": "Dallas Market Center",
+      "type": "event",
+      "date": null,
+      "label": "Free",
+      "paths": [
+        "showroom"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "Your Social Media Strategy, Solved",
+      "provider": "Business of Home LAUNCH, Emma Tessler",
+      "type": "event",
+      "date": null,
+      "label": "Business",
+      "paths": [
+        "studio",
+        "early"
+      ],
+      "url": null,
+      "status": "published"
+    },
+    {
+      "title": "The Age of AI in Design",
+      "provider": "Houzz Pro podcast",
+      "type": "podcast",
+      "date": null,
+      "label": "Podcast",
+      "paths": [
+        "studio",
+        "kb"
+      ],
+      "url": null,
+      "status": "published"
+    }
+  ]
+}

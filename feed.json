@@ -194,6 +194,70 @@
       ],
       "url": "https://pro.houzz.com/for-pros/podcast-the-age-of-ai-in-design",
       "status": "published"
+    },
+    {
+      "title": "The Big O: How to Stay Original in the Age of AI",
+      "provider": "Business of Home LAUNCH, Ericka Saurit",
+      "type": "event",
+      "date": "2026-11-11",
+      "label": "Online workshop",
+      "paths": [
+        "studio",
+        "early"
+      ],
+      "url": "https://businessofhome.com/workshop/the-big-o-how-to-stay-original-in-the-age-of-ai",
+      "status": "published"
+    },
+    {
+      "title": "AI Powered Presentations in Minutes",
+      "provider": "Jenna Gaidusek, AI for Interior Designers",
+      "type": "course",
+      "date": "2026-11-24",
+      "label": "Live class",
+      "paths": [
+        "studio",
+        "showroom"
+      ],
+      "url": "https://www.aiforinteriordesigners.ai/",
+      "status": "published"
+    },
+    {
+      "title": "AI Design Academy",
+      "provider": "AI for Interiors, Jessica Nelson",
+      "type": "course",
+      "date": null,
+      "label": "Membership",
+      "paths": [
+        "studio",
+        "early"
+      ],
+      "url": "https://aiforinteriors.com/academy",
+      "status": "published"
+    },
+    {
+      "title": "Collective Design S5, Ep.2: Where Next? Equipping Designers for Future Tech",
+      "provider": "IIDA",
+      "type": "event",
+      "date": null,
+      "label": "Webinar",
+      "paths": [
+        "studio"
+      ],
+      "url": "https://iida.org/course/collective-design-s5-ep-2-equipping-designers-for-future-tech",
+      "status": "published"
+    },
+    {
+      "title": "AI for Interior Designers Podcast",
+      "provider": "Jenna Gaidusek",
+      "type": "podcast",
+      "date": null,
+      "label": "Podcast",
+      "paths": [
+        "studio",
+        "early"
+      ],
+      "url": "https://aiforinteriordesigners.podbean.com/",
+      "status": "published"
     }
   ]
 }

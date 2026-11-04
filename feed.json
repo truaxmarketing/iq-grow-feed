@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-11-04",
   "items": [
     {
       "title": "Using AI Visualizations to Grow Your Design Practice",
@@ -12,7 +12,7 @@
         "early",
         "ceu"
       ],
-      "url": null,
+      "url": "https://mn.asid.org/events/",
       "status": "published"
     },
     {
@@ -26,7 +26,7 @@
         "studio",
         "ceu"
       ],
-      "url": null,
+      "url": "https://www.highpointmarket.org/exhibitor/1007",
       "status": "published"
     },
     {
@@ -39,7 +39,7 @@
         "studio",
         "ceu"
       ],
-      "url": null,
+      "url": "https://tx.asid.org/events/san-antonio-dc-ai-for-interiors-part-2",
       "status": "published"
     },
     {
@@ -52,7 +52,7 @@
         "ceu",
         "studio"
       ],
-      "url": null,
+      "url": "https://aiau.aia.org/course/details/future-ready-practice-the-ai-tech-series-sponsored-by-egnyte1",
       "status": "published"
     },
     {
@@ -78,7 +78,7 @@
         "early",
         "studio"
       ],
-      "url": null,
+      "url": "https://www.aiforinteriordesigners.ai/",
       "status": "published"
     },
     {
@@ -90,7 +90,7 @@
       "paths": [
         "studio"
       ],
-      "url": null,
+      "url": "https://aiforinteriors.com/redesign",
       "status": "published"
     },
     {
@@ -102,12 +102,12 @@
       "paths": [
         "early"
       ],
-      "url": null,
+      "url": "https://www.arts.ac.uk/subjects/architecture-spatial-and-interior-design/short-courses/spatial-design/generative-ai-for-spatial-design-online-short-course",
       "status": "published"
     },
     {
       "title": "The Ethical Designer",
-      "provider": "Open-enrollment class",
+      "provider": "Jenna Gaidusek, AI for Interior Designers",
       "type": "course",
       "date": null,
       "label": "Ethics",
@@ -115,12 +115,12 @@
         "early",
         "studio"
       ],
-      "url": null,
+      "url": "https://www.aiforinteriordesigners.ai/calendar/open-enrollment-class-the-ethical-designer-15-ceu-approved",
       "status": "published"
     },
     {
       "title": "The Human Advantage: What AI Can’t Replace",
-      "provider": "Provider on file",
+      "provider": "The Designer Launch",
       "type": "course",
       "date": null,
       "label": "Ethics",
@@ -128,7 +128,7 @@
         "studio",
         "early"
       ],
-      "url": null,
+      "url": "https://www.thedesignerlaunch.com/events/the-human-advantage-what-ai-cant-replace",
       "status": "published"
     },
     {
@@ -141,7 +141,7 @@
         "studio",
         "showroom"
       ],
-      "url": null,
+      "url": "https://www.highpointmarket.org/exhibitor/8785",
       "status": "published"
     },
     {
@@ -154,7 +154,7 @@
         "kb",
         "showroom"
       ],
-      "url": null,
+      "url": "https://kbis.com/sessions/12-ways-ai-can-make-more-money-save-time-and-reduce-rework-and-stress-available-live-on-demand/",
       "status": "published"
     },
     {
@@ -166,7 +166,7 @@
       "paths": [
         "showroom"
       ],
-      "url": null,
+      "url": "https://blog.dallasmarketcenter.com/welcome-to-retail-ready",
       "status": "published"
     },
     {
@@ -179,7 +179,7 @@
         "studio",
         "early"
       ],
-      "url": null,
+      "url": "https://businessofhome.com/workshops",
       "status": "published"
     },
     {
@@ -192,7 +192,7 @@
         "studio",
         "kb"
       ],
-      "url": null,
+      "url": "https://pro.houzz.com/for-pros/podcast-the-age-of-ai-in-design",
       "status": "published"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-12",
   "items": [
     {
       "title": "Using AI Visualizations to Grow Your Design Practice",
@@ -13,33 +13,6 @@
         "ceu"
       ],
       "url": "https://mn.asid.org/events/",
-      "status": "published"
-    },
-    {
-      "title": "AI Powered Presentations in Minutes",
-      "provider": "High Point Market, Hooker Furnishings · Jenna Gaidusek",
-      "type": "ceu",
-      "date": "2026-10-17",
-      "label": "1.5 CEU",
-      "paths": [
-        "showroom",
-        "studio",
-        "ceu"
-      ],
-      "url": "https://www.highpointmarket.org/exhibitor/1007",
-      "status": "published"
-    },
-    {
-      "title": "AI for Interiors, Part 2: Working Smarter",
-      "provider": "ASID Texas, San Antonio Design Community",
-      "type": "ceu",
-      "date": "2026-10-20",
-      "label": "IDCEC",
-      "paths": [
-        "studio",
-        "ceu"
-      ],
-      "url": "https://tx.asid.org/events/san-antonio-dc-ai-for-interiors-part-2",
       "status": "published"
     },
     {
@@ -65,7 +38,7 @@
         "studio",
         "early"
       ],
-      "url": null,
+      "url": "https://mn.asid.org/events/",
       "status": "published"
     },
     {
@@ -103,45 +76,6 @@
         "early"
       ],
       "url": "https://www.arts.ac.uk/subjects/architecture-spatial-and-interior-design/short-courses/spatial-design/generative-ai-for-spatial-design-online-short-course",
-      "status": "published"
-    },
-    {
-      "title": "The Ethical Designer",
-      "provider": "Jenna Gaidusek, AI for Interior Designers",
-      "type": "course",
-      "date": "2026-10-29",
-      "label": "Ethics",
-      "paths": [
-        "early",
-        "studio"
-      ],
-      "url": "https://www.aiforinteriordesigners.ai/calendar/open-enrollment-class-the-ethical-designer-15-ceu-approved",
-      "status": "published"
-    },
-    {
-      "title": "The Human Advantage: What AI Can’t Replace",
-      "provider": "The Designer Launch",
-      "type": "course",
-      "date": "2026-10-18",
-      "label": "Ethics",
-      "paths": [
-        "studio",
-        "early"
-      ],
-      "url": "https://www.thedesignerlaunch.com/events/the-human-advantage-what-ai-cant-replace",
-      "status": "published"
-    },
-    {
-      "title": "The Future of the Design Business",
-      "provider": "Houzz Pro and Eichholtz, High Point",
-      "type": "event",
-      "date": "2026-10-17",
-      "label": "Series",
-      "paths": [
-        "studio",
-        "showroom"
-      ],
-      "url": "https://www.highpointmarket.org/exhibitor/8785",
       "status": "published"
     },
     {
@@ -196,19 +130,6 @@
       "status": "published"
     },
     {
-      "title": "The Big O: How to Stay Original in the Age of AI",
-      "provider": "Business of Home LAUNCH, Ericka Saurit",
-      "type": "event",
-      "date": "2026-11-11",
-      "label": "Online workshop",
-      "paths": [
-        "studio",
-        "early"
-      ],
-      "url": "https://businessofhome.com/workshop/the-big-o-how-to-stay-original-in-the-age-of-ai",
-      "status": "published"
-    },
-    {
       "title": "AI Powered Presentations in Minutes",
       "provider": "Jenna Gaidusek, AI for Interior Designers",
       "type": "course",
@@ -258,6 +179,20 @@
       ],
       "url": "https://aiforinteriordesigners.podbean.com/",
       "status": "published"
+    },
+    {
+      "title": "2025 Design Trends: Rehumanizing Space Amid the Rise of AI",
+      "provider": "Haworth",
+      "type": "ceu",
+      "date": null,
+      "label": "1 CEU · HSW",
+      "paths": [
+        "ceu",
+        "studio"
+      ],
+      "url": "https://www.haworth.com/na/en/knowledge/continuing-education/rehumanizing-space-amid-the-rise-of-ai.html",
+      "status": "published",
+      "availability": "On demand"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "items": [
     {
       "title": "Using AI Visualizations to Grow Your Design Practice",
@@ -190,7 +190,21 @@
         "ceu",
         "studio"
       ],
-      "url": "https://www.haworth.com/na/en/knowledge/continuing-education/rehumanizing-space-amid-the-rise-of-ai.html",
+      "url": "https://www.haworth.com/na/en/knowledge/continuing-education/workplace-well-being-designing-for-movement",
+      "status": "published",
+      "availability": "On demand"
+    },
+    {
+      "title": "The Big O: How to Stay Original in the Age of AI",
+      "provider": "Business of Home LAUNCH, Ericka Saurit",
+      "type": "course",
+      "date": null,
+      "label": "Recording",
+      "paths": [
+        "studio",
+        "early"
+      ],
+      "url": "https://businessofhome.com/workshop/the-big-o-how-to-stay-original-in-the-age-of-ai",
       "status": "published",
       "availability": "On demand"
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "items": [
     {
       "title": "Using AI Visualizations to Grow Your Design Practice",
@@ -104,17 +104,18 @@
       "status": "published"
     },
     {
-      "title": "Your Social Media Strategy, Solved",
+      "title": "Your Social Media Strategy, Solved: How to Use AI to Know What to Post and Why",
       "provider": "Business of Home LAUNCH, Emma Tessler",
-      "type": "event",
+      "type": "course",
       "date": null,
-      "label": "Business",
+      "label": "Recording",
       "paths": [
         "studio",
         "early"
       ],
-      "url": "https://businessofhome.com/workshops",
-      "status": "published"
+      "url": "https://businessofhome.com/workshop/your-social-media-strategy-solved-how-to-use-ai-to-know-what-to-post-and-why",
+      "status": "published",
+      "availability": "On demand"
     },
     {
       "title": "The Age of AI in Design",
@@ -205,6 +206,47 @@
         "early"
       ],
       "url": "https://businessofhome.com/workshop/the-big-o-how-to-stay-original-in-the-age-of-ai",
+      "status": "published",
+      "availability": "On demand"
+    },
+    {
+      "title": "Claude for Designers: Your AI Assistant, Set Up to Serve",
+      "provider": "Business of Home LAUNCH, Jessica Nelson",
+      "type": "course",
+      "date": null,
+      "label": "Recording",
+      "paths": [
+        "studio",
+        "early"
+      ],
+      "url": "https://businessofhome.com/workshop/claude-for-designers-your-ai-assistant-set-up-to-serve",
+      "status": "published",
+      "availability": "On demand"
+    },
+    {
+      "title": "Using AI in Your Design Studio: A Practical Introduction",
+      "provider": "Business of Home LAUNCH, Jessica Nelson",
+      "type": "course",
+      "date": null,
+      "label": "Recording",
+      "paths": [
+        "studio",
+        "early"
+      ],
+      "url": "https://businessofhome.com/workshop/using-ai-in-your-design-studio-a-practical-introduction",
+      "status": "published",
+      "availability": "On demand"
+    },
+    {
+      "title": "Market Smarter: Using AI to Get Your Design Firm Found, Recommended and Hired",
+      "provider": "Business of Home LAUNCH, Jessica Nelson",
+      "type": "course",
+      "date": null,
+      "label": "Recording",
+      "paths": [
+        "studio"
+      ],
+      "url": "https://businessofhome.com/workshop/market-smarter-using-ai-to-get-your-design-firm-found-recommended-and-hired",
       "status": "published",
       "availability": "On demand"
     }

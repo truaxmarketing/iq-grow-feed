@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "items": [
     {
       "title": "Using AI Visualizations to Grow Your Design Practice",
@@ -27,6 +27,20 @@
       ],
       "url": "https://aiau.aia.org/course/details/future-ready-practice-the-ai-tech-series-sponsored-by-egnyte1",
       "status": "published"
+    },
+    {
+      "title": "Authenticity and Ethics in the AI-Driven Branding Era",
+      "provider": "ASID, Design Learning by ASID",
+      "type": "ceu",
+      "date": null,
+      "label": "1 CEU · Free for members",
+      "paths": [
+        "ceu",
+        "studio"
+      ],
+      "url": "https://designlearning.asid.org/product?catalog=MO_CEU_T_PC_FR_AI_ETHICS24",
+      "status": "published",
+      "availability": "On demand"
     },
     {
       "title": "Designer Discussion Den: Technology in Your Business",

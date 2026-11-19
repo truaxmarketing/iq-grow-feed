@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-19",
   "items": [
     {
       "title": "Using AI Visualizations to Grow Your Design Practice",
@@ -173,14 +173,16 @@
     {
       "title": "Collective Design S5, Ep.2: Where Next? Equipping Designers for Future Tech",
       "provider": "IIDA",
-      "type": "event",
+      "type": "ceu",
       "date": null,
-      "label": "Webinar",
+      "label": "1 CEU · Webinar recording",
       "paths": [
+        "ceu",
         "studio"
       ],
       "url": "https://iida.org/course/collective-design-s5-ep-2-equipping-designers-for-future-tech",
-      "status": "published"
+      "status": "published",
+      "availability": "On demand"
     },
     {
       "title": "AI for Interior Designers Podcast",

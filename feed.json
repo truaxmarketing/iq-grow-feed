@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-21",
   "items": [
     {
       "title": "Using AI Visualizations to Grow Your Design Practice",
@@ -93,17 +93,19 @@
       "status": "published"
     },
     {
-      "title": "12 Ways AI Can Make More Money and Reduce Rework",
+      "title": "12 Ways AI Can Make More Money, Save Time, and Reduce Rework and Stress",
       "provider": "KBIS 2026, Voices from the Industry",
-      "type": "event",
+      "type": "ceu",
       "date": null,
-      "label": "Business",
+      "label": "0.1 CEU · Recording",
       "paths": [
+        "ceu",
         "kb",
         "showroom"
       ],
       "url": "https://kbis.com/sessions/12-ways-ai-can-make-more-money-save-time-and-reduce-rework-and-stress-available-live-on-demand/",
-      "status": "published"
+      "status": "published",
+      "availability": "On demand"
     },
     {
       "title": "Retail Ready: Make AI Work for Your Business",

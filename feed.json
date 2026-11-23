@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-23",
   "items": [
     {
       "title": "Using AI Visualizations to Grow Your Design Practice",
@@ -104,6 +104,21 @@
         "showroom"
       ],
       "url": "https://kbis.com/sessions/12-ways-ai-can-make-more-money-save-time-and-reduce-rework-and-stress-available-live-on-demand/",
+      "status": "published",
+      "availability": "On demand"
+    },
+    {
+      "title": "Get Your Remodeling Website Cited by Google's AI",
+      "provider": "KBIS 2026, Voices from the Industry",
+      "type": "ceu",
+      "date": null,
+      "label": "0.1 CEU · Recording",
+      "paths": [
+        "ceu",
+        "kb",
+        "studio"
+      ],
+      "url": "https://kbis.com/sessions/get-your-remodeling-website-cited-by-googles-ai-available-live-on-demand/",
       "status": "published",
       "availability": "On demand"
     },

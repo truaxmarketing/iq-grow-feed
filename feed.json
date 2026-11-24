@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "items": [
     {
       "title": "Using AI Visualizations to Grow Your Design Practice",
@@ -13,6 +13,33 @@
         "ceu"
       ],
       "url": "https://mn.asid.org/events/",
+      "status": "published"
+    },
+    {
+      "title": "AI in Action: Smarter Designs, Stronger Business",
+      "provider": "KBIS 2027, Voices from the Industry · Las Vegas",
+      "type": "event",
+      "date": "2027-02-02",
+      "label": "In person · Workshop",
+      "paths": [
+        "kb",
+        "studio",
+        "showroom"
+      ],
+      "url": "https://kbis.com/sessions/ai-in-action-smarter-designs-stronger-business/",
+      "status": "published"
+    },
+    {
+      "title": "Launch Your First AI Agent: Built Live, No Code, 60 Minutes",
+      "provider": "KBIS 2027, Voices from the Industry · Las Vegas",
+      "type": "event",
+      "date": "2027-02-03",
+      "label": "In person · Workshop",
+      "paths": [
+        "kb",
+        "studio"
+      ],
+      "url": "https://kbis.com/sessions/launch-your-first-ai-agent-built-live-no-code-60-minutes/",
       "status": "published"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "items": [
     {
       "title": "Using AI Visualizations to Grow Your Design Practice",
@@ -186,19 +186,6 @@
         "kb"
       ],
       "url": "https://pro.houzz.com/for-pros/podcast-the-age-of-ai-in-design",
-      "status": "published"
-    },
-    {
-      "title": "AI Powered Presentations in Minutes",
-      "provider": "Jenna Gaidusek, AI for Interior Designers",
-      "type": "course",
-      "date": "2026-11-24",
-      "label": "Live class",
-      "paths": [
-        "studio",
-        "showroom"
-      ],
-      "url": "https://www.aiforinteriordesigners.ai/",
       "status": "published"
     },
     {

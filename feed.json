@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "items": [
     {
       "title": "When Clients Bring AI: Leading the Design Conversation",
@@ -294,6 +294,33 @@
         "studio"
       ],
       "url": "https://businessofhome.com/workshop/market-smarter-using-ai-to-get-your-design-firm-found-recommended-and-hired",
+      "status": "published",
+      "availability": "On demand"
+    },
+    {
+      "title": "Making Space for Design: Practical AI Tools for Industry Creatives",
+      "provider": "Business of Home LAUNCH, Alexandra Ballensweig",
+      "type": "course",
+      "date": null,
+      "label": "Recording",
+      "paths": [
+        "studio",
+        "early"
+      ],
+      "url": "https://businessofhome.com/workshop/making-space-for-design-practical-ai-tools-for-industry-creatives",
+      "status": "published",
+      "availability": "On demand"
+    },
+    {
+      "title": "Beyond SEO: Building Trust and Securing Clients in an AI-Driven Search Landscape",
+      "provider": "Business of Home LAUNCH, Nikki Mihalik",
+      "type": "course",
+      "date": null,
+      "label": "Recording",
+      "paths": [
+        "studio"
+      ],
+      "url": "https://businessofhome.com/workshop/beyond-seo-building-trust-and-securing-clients-in-an-ai-driven-search-landscape",
       "status": "published",
       "availability": "On demand"
     }

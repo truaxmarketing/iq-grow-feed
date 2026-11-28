@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "items": [
     {
       "title": "When Clients Bring AI: Leading the Design Conversation",
@@ -13,6 +13,18 @@
         "ceu"
       ],
       "url": "https://mn.asid.org/events/ceu-when-clients-bring-ai-leading-the-design-conversation",
+      "status": "published"
+    },
+    {
+      "title": "RETAIL READY: Practical AI Training for Independent Retailers",
+      "provider": "Dallas Market Center · Alison Dodson, Trudi Bartow, Cole Daugherty",
+      "type": "event",
+      "date": "2026-12-02",
+      "label": "Free · Webinar",
+      "paths": [
+        "showroom"
+      ],
+      "url": "https://www.dallasmarketcenter.com/press-room/dallas-market-center-to-host-free-retail-ready-webinar-on-using-ai-to-run-a-smarter-store/",
       "status": "published"
     },
     {
